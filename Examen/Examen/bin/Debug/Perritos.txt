@@ -1,0 +1,20 @@
+0, Juancho, 01/01/01,5, Macho
+1, Juanita, 01/01/02,3, Hembra
+2, Juan, 01/01/03,2, Macho
+3, Kira, 01/01/04,1, Hembra
+4, Dubalin,20/12/12,3, Macho
+5, Flor,15/10/10,4, Hembra
+6, Don, 01/01/07,5, Macho
+7, Sol, 01/01/08,3, Hembra
+8, Manolo, 01/01/09,2, Macho
+9, Kirai, 01/01/10,2, Hembra
+10, Pege, 01/01/11,1, Macho
+11, Diana, 01/01/12,5, Hembra
+12, pu, 01/01/13,3, Macho
+13, carla, 01/01/14,4, Hembra
+14, Jorge, 01/01/15,4, Macho
+15, Kaira, 01/01/16,2, Hembra
+16, Felipe, 01/01/017,5, Macho
+17, Florecita, 01/01/18,1, Hembra
+18,Pollo, 01/01/19,3, Macho
+19, Klara, 01/01/20,5,Macho

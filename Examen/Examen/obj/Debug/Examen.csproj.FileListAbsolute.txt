@@ -1,0 +1,7 @@
+C:\Users\karla\OneDrive\Desktop\Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\karla\OneDrive\Desktop\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\karla\OneDrive\Desktop\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\karla\OneDrive\Desktop\Examen\Examen\obj\Debug\Examen.csprojAssemblyReference.cache
+C:\Users\karla\OneDrive\Desktop\Examen\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+C:\Users\karla\OneDrive\Desktop\Examen\Examen\obj\Debug\Examen.exe
+C:\Users\karla\OneDrive\Desktop\Examen\Examen\obj\Debug\Examen.pdb
